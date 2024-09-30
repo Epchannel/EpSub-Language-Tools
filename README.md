@@ -10,6 +10,37 @@
 - 🌍 **Hỗ trợ đa ngôn ngữ**: Hỗ trợ dịch phụ đề sang hầu hết các ngôn ngữ phổ biến.
 - 💡 **Tăng cường trải nghiệm học tập**: Hiển thị cùng lúc hai ngôn ngữ giúp bạn đối chiếu và học từ vựng một cách hiệu quả.
 
+## 🌐 Các trang web hỗ trợ
+
+EpSub hỗ trợ nhiều nền tảng phổ biến, bao gồm:
+
+- 🌍 YouTube (bao gồm cả video YouTube nhúng trên các trang web khác)
+- 🌍 Udemy
+- 🌍 Udemy Business
+- 🌍 Coursera
+- 🌍 Ted
+- 🌍 edX
+- 🌍 Udacity
+- 🌍 Khan Academy
+- 🌍 Stanford Online
+- 🌍 ArtStation Learning
+- 🌍 Future Learn
+- 🌍 Amazon Prime Video
+- 🌍 Netflix
+- 🌍 Disney+
+- 🌍 Hulu
+- 🌍 ABC iview
+- 🌍 Zenva Academy
+- 🌍 teach:able (bao gồm tất cả các trang web được tạo bởi teach:able)
+- 🌍 9anime
+- 🌍 Bilibili
+- 🌍 Vimeo (bao gồm cả video Vimeo nhúng trên các trang web khác)
+- 🌍 South Park
+- 🌍 Skill Share
+- 🌍 Shader Development using Unity
+- 🌍 Shen Yun Zuo Pin
+- 🌍 Rachel's English
+
 ## 🔧 Cài đặt EpSub
 
 ### 1. Tải xuống và giải nén 📦
