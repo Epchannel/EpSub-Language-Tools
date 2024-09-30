@@ -1,6 +1,6 @@
 # EpSub - Language Switching Extension for Effective Learning and Watching 🎓🌐
 
-![EpSub Logo](https://github.com/Epchannel/EpSub-Language-Tools/blob/master/assets/Logo_EpSub.png)
+![EpSub Logo](https://github.com/Epchannel/EpSub-Language-Tools/blob/master/assets/icon128.png)
 
 ## 📝 Giới thiệu
 
