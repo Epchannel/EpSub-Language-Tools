@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "Spanish"
+  },
+  "ext_name": {
+    "message": "SubTrans"
+  },
+  "ext_subname": {
+    "message": "Paquete de traducción general de subtítulos"
+  },
+  "ext_fulltitle": {
+    "message": "SubTrans - Paquete de traducción general de subtítulos"
+  },
+  "ext_description": {
+    "message": "Traductor general de subtítulos para múltiples sitios. Muestra subtítulos bilingües. Los sitios compatibles están aumentando activamente."
+  },
+  "switch": {
+    "message": "Cambiar:"
+  },
+  "translation_source": {
+    "message": "Fuente de traducción:"
+  },
+  "translation_source_tooltip": {
+    "message": "Esta lista se carga desde los subtítulos oficiales en la página del video que estás visitando. Es la fuente de traducción del primer y segundo subtítulo. Asegúrate de estar en una página de vídeo con al menos un subtítulo oficial. También puede cargar sus propios subtítulos o buscar subtítulos como fuente de traducción."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Asegúrate de que la página en la que te encuentras se haya cargado por completo y que el vídeo tenga al menos un subtítulo oficial. Puedes esperar un poco y volver a abrir esta ventana emergente, o intentar recargar la página del video. También puede cargar sus propios subtítulos o buscar subtítulos como fuente de traducción. Tenga en cuenta que esto solo funciona si el sitio está en nuestra lista de sitios admitidos. Si tiene algún problema para configurarlo, comuníquese conmigo."
+  },
+  "upload_button_tooltip": {
+    "message": "Sube subtítulos externos como fuente de traducción. Esto solo funciona cuando estás en una página de video."
+  },
+  "first_subtitle": {
+    "message": "Primer subtítulo:"
+  },
+  "second_subtitle": {
+    "message": "Segundo subtítulo:"
+  },
+  "first_subtitle_raw": {
+    "message": "Primer subtítulo"
+  },
+  "second_subtitle_raw": {
+    "message": "Segundo subtítulo"
+  },
+  "use_preset_style": {
+    "message": "Usar estilo preestablecido:"
+  },
+  "thanks": {
+    "message": "Construye con ❤️. Gracias por usar."
+  },
+  "feedback": {
+    "message": "Contáctame"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "Avanzar los subtítulos en 0,5 segundos"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "Retrasar los subtítulos en 0,5 segundos"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "SubTrans - Superar la cuota, 'Actualizar a PRO' o 'Compartir e invitar'"
+  },
+  "subt_fake_need_login": {
+    "message": "SubTrans - Inicie sesión para continuar usando la traducción"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "SubTrans - Por favor, 'Actualice a PRO' para descargar subtítulos"
+  },
+  "download_button_tooltip": {
+    "message": "Haga clic para descargar este subtítulo. Esta es una función PRO."
+  },
+  "support_site_list": {
+    "message": "Lista de sitios compatibles"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "Copiar"
+  },
+  "search_button_tooltip": {
+    "message": "Busque en OpenSubtitles subtítulos como fuente de traducción. Este botón solo funciona cuando estás en una página de video."
+  },
+  "apply_external_subt_success": {
+    "message": "¡Los subtítulos externos se aplicaron exitosamente! Selecciónelo en las opciones de 'Fuente de traducción'."
+  },
+  "translation_dst_tooltip": {
+    "message": "Esta lista combina los idiomas admitidos por la traducción automática de SubTrans y los idiomas oficiales de subtítulos de la página de video que visitó. Cuando eliges un idioma, SubTrans primero intenta obtener subtítulos de los oficiales. Si eso falla, SubTrans traduce desde la 'Fuente de traducción' seleccionada. También puede activar 'Usar siempre traducción automática' para forzar a SubTrans a traducir siempre desde la 'Fuente de traducción'. Tenga en cuenta que los subtítulos obtenidos de fuentes oficiales siempre son de uso gratuito, mientras que los subtítulos traducidos por SubTrans cuentan para su uso."
+  },
+  "switch_use_mt": {
+    "message": "Utilice siempre la traducción automática:"
+  },
+  "switch_use_mt_tooltip": {
+    "message": "Activar este interruptor obligaría a SubTrans a traducir automáticamente los subtítulos desde la 'Fuente de traducción'. Esto podría mejorar la calidad de la traducción, especialmente para los vídeos de YouTube. Tenga en cuenta que los subtítulos obtenidos de fuentes oficiales siempre son de uso gratuito, mientras que los subtítulos traducidos por SubTrans cuentan para su uso."
+  },
+  "share_to_earn_commission": {
+    "message": "Gana dinero compartiendo SubTrans"
+  }
+}

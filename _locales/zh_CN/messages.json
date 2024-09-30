@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "Chinese, Simplified"
+  },
+  "ext_name": {
+    "message": "SubTrans"
+  },
+  "ext_subname": {
+    "message": "通用字幕翻译套件"
+  },
+  "ext_fulltitle": {
+    "message": "SubTrans - 通用字幕翻译套件"
+  },
+  "ext_description": {
+    "message": "多个站点的通用字幕翻译器。显示双语字幕。支持的站点正在积极增加。"
+  },
+  "switch": {
+    "message": "开关:"
+  },
+  "translation_source": {
+    "message": "翻译源:"
+  },
+  "translation_source_tooltip": {
+    "message": "此列表是从您正在访问的视频页面上的官方字幕加载的。 这是第一个和第二个字幕的翻译源。 确保您所在的视频页面至少有一个官方字幕。 您还可以上传自己的字幕或搜索字幕作为翻译源。"
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "确保您所在的页面已完全加载，并且视频至少有一个官方字幕。 您可以稍等一下，然后重新打开此弹出窗口，或者尝试重新加载视频页面。 您还可以上传自己的字幕或搜索字幕作为翻译源。 请注意，这仅当该网站位于我们支持的网站列表中时才有效。 如果您在设置时遇到任何问题，请联系我。"
+  },
+  "upload_button_tooltip": {
+    "message": "上传外部字幕作为翻译源。 这仅当您在视频页面上时有效。"
+  },
+  "first_subtitle": {
+    "message": "字幕一:"
+  },
+  "second_subtitle": {
+    "message": "字幕二:"
+  },
+  "first_subtitle_raw": {
+    "message": "字幕一"
+  },
+  "second_subtitle_raw": {
+    "message": "字幕二"
+  },
+  "use_preset_style": {
+    "message": "使用预设样式:"
+  },
+  "thanks": {
+    "message": "感谢您的使用～"
+  },
+  "feedback": {
+    "message": "联络我"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "将字幕提前 0.5 秒"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "将字幕延迟 0.5 秒"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "SubTrans - 超出配额，“升级到PRO”或“分享&邀请”"
+  },
+  "subt_fake_need_login": {
+    "message": "SubTrans - 请登录以继续使用翻译"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "SubTrans - 请 “升级到 PRO” 以下载字幕"
+  },
+  "download_button_tooltip": {
+    "message": "点击下载此字幕，这是一个 PRO 功能。"
+  },
+  "support_site_list": {
+    "message": "支持的站点列表"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "复制"
+  },
+  "search_button_tooltip": {
+    "message": "在 OpenSubtitles 上搜索字幕作为翻译源。 此按钮仅在您位于视频页面时才有效。"
+  },
+  "apply_external_subt_success": {
+    "message": "外挂字幕应用成功！ 请在“翻译源”选项中选择它。"
+  },
+  "translation_dst_tooltip": {
+    "message": "此列表结合了 SubTrans 机器翻译支持的语言和您访问的视频页面中的官方字幕语言。 当您选择一种语言时，SubTrans 首先尝试从官方字幕中获取字幕。 如果失败，SubTrans 将从您选择的“翻译源”进行翻译。 您还可以打开“始终使用机器翻译”以强制 SubTrans 始终从“翻译源”进行翻译。 请注意，从官方来源获得的字幕始终可以免费使用，而由 SubTrans 翻译的字幕则会计入使用量。"
+  },
+  "switch_use_mt": {
+    "message": "始终使用机器翻译："
+  },
+  "switch_use_mt_tooltip": {
+    "message": "打开此开关将强制 SubTrans 从“翻译源”机器翻译字幕。 这可能会提高翻译质量，尤其是 YouTube 视频。 请注意，从官方来源获得的字幕始终可以免费使用，而由 SubTrans 翻译的字幕则会计入使用量。"
+  },
+  "share_to_earn_commission": {
+    "message": "通过分享 SubTrans 赚钱"
+  }
+}

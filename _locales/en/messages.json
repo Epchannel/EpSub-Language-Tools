@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "English"
+  },
+  "ext_name": {
+    "message": "SubTrans"
+  },
+  "ext_subname": {
+    "message": "General Subtitle Translator Suite"
+  },
+  "ext_fulltitle": {
+    "message": "SubTrans - General Subtitle Translator Suite"
+  },
+  "ext_description": {
+    "message": "General Subtitle Translator for Multiple Sites. Displays bilingual subtitles. Supported sites are actively increasing."
+  },
+  "switch": {
+    "message": "Switch:"
+  },
+  "translation_source": {
+    "message": "Translation Source:"
+  },
+  "translation_source_tooltip": {
+    "message": "This list is loaded from the official subtitles on the video page you're visiting. It's the translation source for the first and second subtitles. Make sure you're on a video page with at least one official subtitle. You can also upload your own subtitles or search for subtitles as the translation source."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Make sure the page you're on has fully loaded and the video has at least one official subtitle. You can wait a bit and reopen this popup window, or try reloading the video page. You can also upload your own subtitles or search for subtitles as translation source. Note this only works if the site is on our supported sites list. If you have any trouble getting set up, reach out to me."
+  },
+  "upload_button_tooltip": {
+    "message": "Upload external subtitle as translation source. This button only works when you are on a video page."
+  },
+  "first_subtitle": {
+    "message": "First Subtitle:"
+  },
+  "second_subtitle": {
+    "message": "Second Subtitle:"
+  },
+  "first_subtitle_raw": {
+    "message": "First Subtitle"
+  },
+  "second_subtitle_raw": {
+    "message": "Second Subtitle"
+  },
+  "use_preset_style": {
+    "message": "Use preset style:"
+  },
+  "thanks": {
+    "message": "🌟TBBANK-02900593101🌟"
+  },
+  "feedback": {
+    "message": "Donate"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "Advance subtitles by 0.5 seconds"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "Delay subtitles by 0.5 seconds"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "SubTrans - Exceed quota, 'Upgrade to PRO' or 'Share & Invite'"
+  },
+  "subt_fake_need_login": {
+    "message": "SubTrans - Please Log In to continue using translation"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "SubTrans - Please 'Upgrade to PRO' to download subtitles"
+  },
+  "download_button_tooltip": {
+    "message": "Click to download this subtitle by XTri 🌟"
+  },
+  "support_site_list": {
+    "message": "List of Supported Sites"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "Copy"
+  },
+  "search_button_tooltip": {
+    "message": "Search on OpenSubtitles for subtitles as translation source. This button only works when you are on a video page."
+  },
+  "apply_external_subt_success": {
+    "message": "External subtitles applied successfully! Please select it in the 'Translation Source' options."
+  },
+  "translation_dst_tooltip": {
+    "message": "This list combines languages supported by SubTrans Machine Translation and official subtitle languages from the video page you visited. When you pick a language, SubTrans first tries to get subtitles from the official ones. If that fails, SubTrans translates from your selected 'Translation Source'. You can also turn on 'Always Use Machine Translation' to force SubTrans to always translate from the 'Translation Source'. Please note that subtitles gotten from official sources are always free to use, while subtitles translated by SubTrans count towards usage."
+  },
+  "switch_use_mt": {
+    "message": "Always Use Machine Translation:"
+  },
+  "switch_use_mt_tooltip": {
+    "message": "Turning on this switch would force SubTrans to machine translate subtitles from 'Translation Source'. This might improve the translation quality, particularly for YouTube videos. Please note that subtitles gotten from official sources are always free to use, while subtitles translated by SubTrans count towards usage."
+  },
+  "share_to_earn_commission": {
+    "message": "Earn money by sharing SubTrans"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "Korean"
+  },
+  "ext_name": {
+    "message": "SubTrans"
+  },
+  "ext_subname": {
+    "message": "일반 자막 번역기 제품군"
+  },
+  "ext_fulltitle": {
+    "message": "SubTrans - 일반 자막 번역기 제품군"
+  },
+  "ext_description": {
+    "message": "여러 사이트에 대한 일반 자막 번역기. 이중 언어 자막을 표시합니다. 지원 사이트가 활발히 증가하고 있습니다."
+  },
+  "switch": {
+    "message": "스위치:"
+  },
+  "translation_source": {
+    "message": "번역 출처:"
+  },
+  "translation_source_tooltip": {
+    "message": "이 목록은 방문 중인 동영상 페이지의 공식 자막에서 로드됩니다. 첫 번째, 두 번째 자막의 번역 소스입니다. 하나 이상의 공식 자막이 있는 동영상 페이지에 있는지 확인하세요. 자신만의 자막을 업로드하거나 자막을 번역 소스로 검색할 수도 있습니다."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "현재 페이지가 완전히 로드되었는지, 동영상에 공식 자막이 하나 이상 있는지 확인하세요. 잠시 기다렸다가 이 팝업 창을 다시 열거나 비디오 페이지를 다시 로드해 보세요. 자신만의 자막을 업로드하거나 자막을 번역 소스로 검색할 수도 있습니다. 이는 사이트가 지원되는 사이트 목록에 있는 경우에만 작동합니다. 설정하는 데 문제가 있으면 저에게 연락하세요."
+  },
+  "upload_button_tooltip": {
+    "message": "번역 소스로 외부 자막을 업로드합니다. 이것은 비디오 페이지에 있을 때만 작동합니다."
+  },
+  "first_subtitle": {
+    "message": "첫 번째 자막:"
+  },
+  "second_subtitle": {
+    "message": "두 번째 자막:"
+  },
+  "first_subtitle_raw": {
+    "message": "첫 번째 자막"
+  },
+  "second_subtitle_raw": {
+    "message": "두 번째 자막"
+  },
+  "use_preset_style": {
+    "message": "사전 설정 스타일 사용:"
+  },
+  "thanks": {
+    "message": "❤️으로 구축하세요. 이용해 주셔서 감사합니다."
+  },
+  "feedback": {
+    "message": "저에게 연락하세요"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "자막 0.5초 앞당기기"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "자막 0.5초 지연"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "SubTrans - 할당량 초과, 'PRO로 업그레이드' 또는 '공유 및 초대'"
+  },
+  "subt_fake_need_login": {
+    "message": "SubTrans - 번역을 계속 사용하려면 로그인하십시오"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "SubTrans - 자막을 다운로드하려면 'PRO로 업그레이드'하세요."
+  },
+  "download_button_tooltip": {
+    "message": "이 자막을 다운로드하려면 클릭하세요. 이것은 PRO 기능입니다."
+  },
+  "support_site_list": {
+    "message": "지원되는 사이트 목록"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "복사"
+  },
+  "search_button_tooltip": {
+    "message": "번역 소스로 사용할 자막을 OpenSubtitles에서 검색하세요. 이 버튼은 비디오 페이지에 있을 때만 작동합니다."
+  },
+  "apply_external_subt_success": {
+    "message": "외부 자막이 성공적으로 적용되었습니다! '번역 소스' 옵션에서 선택해주세요."
+  },
+  "translation_dst_tooltip": {
+    "message": "이 목록은 SubTrans 기계 번역에서 지원되는 언어와 귀하가 방문한 비디오 페이지의 공식 자막 언어를 결합합니다. 언어를 선택하면 SubTrans는 먼저 공식 언어에서 자막을 얻으려고 시도합니다. 실패하면 SubTrans는 선택한 '번역 소스'를 번역합니다. 또한 '항상 기계 번역 사용'을 켜서 SubTrans가 항상 '번역 소스'에서 번역하도록 할 수도 있습니다. 공식 소스에서 가져온 자막은 항상 무료로 사용할 수 있으며 SubTrans에서 번역한 자막은 사용량에 포함됩니다."
+  },
+  "switch_use_mt": {
+    "message": "항상 기계 번역을 사용하세요:"
+  },
+  "switch_use_mt_tooltip": {
+    "message": "이 스위치를 켜면 SubTrans가 '번역 소스'의 자막을 기계 번역하게 됩니다. 특히 YouTube 동영상의 번역 품질이 향상될 수 있습니다. 공식 소스에서 가져온 자막은 항상 무료로 사용할 수 있으며 SubTrans에서 번역한 자막은 사용량에 포함됩니다."
+  },
+  "share_to_earn_commission": {
+    "message": "SubTrans를 공유하여 수익을 창출하세요"
+  }
+}

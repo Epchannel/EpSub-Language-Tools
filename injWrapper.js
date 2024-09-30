@@ -1,0 +1,1 @@
+(()=>{console.log("[st] in injWrapper");var e=document.createElement("script");e.src=chrome.runtime.getURL("inj.js"),(document.head||document.documentElement).appendChild(e)})();

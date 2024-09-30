@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "Japanese"
+  },
+  "ext_name": {
+    "message": "SubTrans"
+  },
+  "ext_subname": {
+    "message": "一般字幕翻訳者スイート"
+  },
+  "ext_fulltitle": {
+    "message": "SubTrans - 一般字幕翻訳者スイート"
+  },
+  "ext_description": {
+    "message": "複数のサイトの一般的な字幕翻訳者。 バイリンガル字幕を表示します。 サポートされるサイトは積極的に増えています。"
+  },
+  "switch": {
+    "message": "スイッチ:"
+  },
+  "translation_source": {
+    "message": "翻訳ソース:"
+  },
+  "translation_source_tooltip": {
+    "message": "このリストは、アクセスしているビデオ ページの公式字幕からロードされます。 字幕1本目と2本目の翻訳元です。 少なくとも 1 つの公式字幕があるビデオ ページにいることを確認してください。 独自の字幕をアップロードしたり、翻訳ソースとして字幕を検索したりすることもできます。"
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "現在のページが完全に読み込まれており、ビデオに少なくとも 1 つの公式字幕があることを確認してください。 少し待ってからこのポップアップ ウィンドウを再度開くか、ビデオ ページをリロードしてみてください。 独自の字幕をアップロードしたり、翻訳ソースとして字幕を検索したりすることもできます。 これは、サイトがサポートされているサイトのリストに含まれている場合にのみ機能することに注意してください。 設定に問題がある場合は、私に連絡してください。"
+  },
+  "upload_button_tooltip": {
+    "message": "外部字幕を翻訳ソースとしてアップロードします。 これは、動画ページにいる場合にのみ機能します。"
+  },
+  "first_subtitle": {
+    "message": "最初の字幕:"
+  },
+  "second_subtitle": {
+    "message": "2番目の字幕:"
+  },
+  "first_subtitle_raw": {
+    "message": "最初の字幕"
+  },
+  "second_subtitle_raw": {
+    "message": "2番目の字幕"
+  },
+  "use_preset_style": {
+    "message": "プリセット スタイルを使用:"
+  },
+  "thanks": {
+    "message": "❤️でビルドします。 ご利用いただきありがとうございます。"
+  },
+  "feedback": {
+    "message": "私に連絡して"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "字幕を 0.5 秒進める"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "字幕を 0.5 秒遅らせる"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "SubTrans - 割り当てを超えた場合、「PRO にアップグレード」または「共有 & 招待」"
+  },
+  "subt_fake_need_login": {
+    "message": "SubTrans - 引き続き翻訳を使用するにはログインしてください"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "SubTrans - 字幕をダウンロードするには、「PRO にアップグレード」してください"
+  },
+  "download_button_tooltip": {
+    "message": "クリックしてこのサブタイトルをダウンロードします。 これは PRO 機能です。"
+  },
+  "support_site_list": {
+    "message": "サポートされているサイトのリスト"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "コピー"
+  },
+  "search_button_tooltip": {
+    "message": "OpenSubtitles で翻訳ソースとしての字幕を検索します。 このボタンはビデオ ページにいる場合にのみ機能します。"
+  },
+  "apply_external_subt_success": {
+    "message": "外部字幕が正常に適用されました。 「翻訳元」オプションで選択してください。"
+  },
+  "translation_dst_tooltip": {
+    "message": "このリストは、SubTrans 機械翻訳でサポートされている言語と、アクセスしたビデオ ページの公式字幕言語を組み合わせたものです。 言語を選択すると、SubTrans はまず公式の字幕から字幕を取得しようとします。 それが失敗した場合、SubTrans は選択した「翻訳ソース」から翻訳します。 「常に機械翻訳を使用する」をオンにして、SubTrans が常に「翻訳ソース」から翻訳するように強制することもできます。 公式ソースから取得した字幕は常に無料で使用できますが、SubTrans によって翻訳された字幕は使用量にカウントされることに注意してください。"
+  },
+  "switch_use_mt": {
+    "message": "常に機械翻訳を使用する:"
+  },
+  "switch_use_mt_tooltip": {
+    "message": "このスイッチをオンにすると、SubTrans は「翻訳ソース」からの字幕を強制的に機械翻訳します。 これにより、特に YouTube ビデオの翻訳品質が向上する可能性があります。 公式ソースから取得した字幕は常に無料で使用できますが、SubTrans によって翻訳された字幕は使用量にカウントされることに注意してください。"
+  },
+  "share_to_earn_commission": {
+    "message": "SubTrans を共有してお金を稼ぎましょう"
+  }
+}

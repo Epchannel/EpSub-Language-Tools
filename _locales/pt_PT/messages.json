@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "Portuguese"
+  },
+  "ext_name": {
+    "message": "SubTrans"
+  },
+  "ext_subname": {
+    "message": "Pacote de tradutores de legendas gerais"
+  },
+  "ext_fulltitle": {
+    "message": "SubTrans - Pacote de tradutores de legendas gerais"
+  },
+  "ext_description": {
+    "message": "Tradutor de legendas gerais para vários sites. Exibe legendas bilíngües. Os sites suportados estão aumentando ativamente."
+  },
+  "switch": {
+    "message": "Trocar:"
+  },
+  "translation_source": {
+    "message": "Fonte da tradução:"
+  },
+  "translation_source_tooltip": {
+    "message": "Esta lista é carregada a partir das legendas oficiais da página do vídeo que você está visitando. É a fonte de tradução da primeira e da segunda legenda. Certifique-se de estar em uma página de vídeo com pelo menos uma legenda oficial. Você também pode fazer upload de suas próprias legendas ou pesquisar legendas como fonte de tradução."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Certifique-se de que a página em que você está esteja totalmente carregada e que o vídeo tenha pelo menos uma legenda oficial. Você pode esperar um pouco e reabrir esta janela pop-up ou tentar recarregar a página do vídeo. Você também pode fazer upload de suas próprias legendas ou pesquisar legendas como fonte de tradução. Observe que isso só funciona se o site estiver em nossa lista de sites suportados. Se você tiver alguma dificuldade para configurar, entre em contato comigo."
+  },
+  "upload_button_tooltip": {
+    "message": "Carregar legenda externa como fonte de tradução. Isso só funciona quando você está em uma página de vídeo."
+  },
+  "first_subtitle": {
+    "message": "Primeiro subtítulo:"
+  },
+  "second_subtitle": {
+    "message": "Segundo Subtítulo:"
+  },
+  "first_subtitle_raw": {
+    "message": "Primeiro subtítulo"
+  },
+  "second_subtitle_raw": {
+    "message": "Segundo Subtítulo"
+  },
+  "use_preset_style": {
+    "message": "Usar estilo predefinido:"
+  },
+  "thanks": {
+    "message": "Construa com ❤️. Obrigado por usar."
+  },
+  "feedback": {
+    "message": "Contate-me"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "Avançar legendas em 0,5 segundos"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "Atrasar as legendas em 0,5 segundos"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "SubTrans - Exceder a cota, 'Atualizar para PRO' ou 'Compartilhar e convidar'"
+  },
+  "subt_fake_need_login": {
+    "message": "SubTrans - Por favor, faça o login para continuar usando a tradução"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "SubTrans - Por favor 'Atualize para PRO' para baixar legendas"
+  },
+  "download_button_tooltip": {
+    "message": "Clique para baixar esta legenda. Este é um recurso PRO."
+  },
+  "support_site_list": {
+    "message": "Lista de sites suportados"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "cópia de"
+  },
+  "search_button_tooltip": {
+    "message": "Pesquise no OpenSubtitles por legendas como fonte de tradução. Este botão só funciona quando você está em uma página de vídeo."
+  },
+  "apply_external_subt_success": {
+    "message": "Legendas externas aplicadas com sucesso! Selecione-o nas opções de 'Fonte da tradução'."
+  },
+  "translation_dst_tooltip": {
+    "message": "Esta lista combina os idiomas suportados pela tradução automática SubTrans e os idiomas oficiais das legendas da página do vídeo que você visitou. Quando você escolhe um idioma, o SubTrans primeiro tenta obter legendas dos idiomas oficiais. Se isso falhar, o SubTrans traduz a partir da 'Fonte de tradução' selecionada. Você também pode ativar 'Sempre usar tradução automática' para forçar o SubTrans a sempre traduzir da 'Fonte da tradução'. Observe que as legendas obtidas de fontes oficiais são sempre de uso gratuito, enquanto as legendas traduzidas pelo SubTrans contam para o uso."
+  },
+  "switch_use_mt": {
+    "message": "Sempre use tradução automática:"
+  },
+  "switch_use_mt_tooltip": {
+    "message": "Ativar essa opção forçaria o SubTrans a traduzir automaticamente as legendas da 'Fonte de tradução'. Isto pode melhorar a qualidade da tradução, especialmente para vídeos do YouTube. Observe que as legendas obtidas de fontes oficiais são sempre de uso gratuito, enquanto as legendas traduzidas pelo SubTrans contam para o uso."
+  },
+  "share_to_earn_commission": {
+    "message": "Ganhe dinheiro compartilhando SubTrans"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "Vietnamese"
+  },
+  "ext_name": {
+    "message": "EpSub"
+  },
+  "ext_subname": {
+    "message": "Bộ dịch phụ đề chung"
+  },
+  "ext_fulltitle": {
+    "message": "EpSub - Bộ dịch phụ đề chung"
+  },
+  "ext_description": {
+    "message": "Trình dịch phụ đề chung cho nhiều trang web. Hiển thị phụ đề song ngữ. Các trang web được hỗ trợ đang tích cực tăng lên."
+  },
+  "switch": {
+    "message": "Chuyển:"
+  },
+  "translation_source": {
+    "message": "Nguồn dịch:"
+  },
+  "translation_source_tooltip": {
+    "message": "Danh sách này được tải từ phụ đề chính thức trên trang video bạn đang truy cập. Đây là nguồn dịch cho phụ đề thứ nhất và thứ hai. Đảm bảo bạn đang truy cập trang video có ít nhất một phụ đề chính thức. Bạn cũng có thể tải lên phụ đề của riêng mình hoặc tìm kiếm phụ đề làm nguồn dịch."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Đảm bảo trang bạn đang truy cập đã được tải đầy đủ và video có ít nhất một phụ đề chính thức. Bạn có thể đợi một chút và mở lại cửa sổ bật lên này hoặc thử tải lại trang video. Bạn cũng có thể tải lên phụ đề của riêng mình hoặc tìm kiếm phụ đề làm nguồn dịch. Lưu ý điều này chỉ hoạt động nếu trang web nằm trong danh sách các trang web được hỗ trợ của chúng tôi. Nếu bạn gặp khó khăn trong việc thiết lập, hãy liên hệ với tôi."
+  },
+  "upload_button_tooltip": {
+    "message": "Tải lên phụ đề bên ngoài làm nguồn dịch. Điều này chỉ hoạt động khi bạn đang ở trên một trang video."
+  },
+  "first_subtitle": {
+    "message": "Phụ đề đầu tiên:"
+  },
+  "second_subtitle": {
+    "message": "Phụ đề thứ hai:"
+  },
+  "first_subtitle_raw": {
+    "message": "Phụ đề đầu tiên"
+  },
+  "second_subtitle_raw": {
+    "message": "Phụ đề thứ hai"
+  },
+  "use_preset_style": {
+    "message": "Sử dụng kiểu đặt trước:"
+  },
+  "thanks": {
+    "message": "Mod by EpChannel"
+  },
+  "feedback": {
+    "message": "Donate"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "Phụ đề trước 0,5 giây"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "Trì hoãn phụ đề 0,5 giây"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "EpSub - Vượt quá hạn ngạch, 'Nâng cấp lên CHUYÊN NGHIỆP' hoặc 'Chia sẻ & Mời'"
+  },
+  "subt_fake_need_login": {
+    "message": "EpSub - Vui lòng Đăng nhập để tiếp tục sử dụng bản dịch"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "EpSub - Vui lòng 'Nâng cấp lên PRO' để tải xuống phụ đề"
+  },
+  "download_button_tooltip": {
+    "message": "Nhấp để tải xuống phụ đề này. Đây là một tính năng CHUYÊN NGHIỆP."
+  },
+  "support_site_list": {
+    "message": "Danh sách các trang web được hỗ trợ"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "sao chép"
+  },
+  "search_button_tooltip": {
+    "message": "Tìm kiếm trên OpenSubtitles phụ đề làm nguồn dịch. Nút này chỉ hoạt động khi bạn đang ở trang video."
+  },
+  "apply_external_subt_success": {
+    "message": "Đã áp dụng phụ đề bên ngoài thành công! Vui lòng chọn nó trong tùy chọn 'Nguồn dịch'."
+  },
+  "translation_dst_tooltip": {
+    "message": "Danh sách này kết hợp các ngôn ngữ được hỗ trợ bởi bản dịch máy EpSub và các ngôn ngữ phụ đề chính thức từ trang video bạn đã truy cập. Khi bạn chọn một ngôn ngữ, trước tiên EpSub sẽ cố gắng lấy phụ đề từ ngôn ngữ chính thức. Nếu không thành công, EpSub sẽ dịch từ 'Nguồn dịch' đã chọn của bạn. Bạn cũng có thể bật 'Luôn sử dụng dịch máy' để buộc EpSub luôn dịch từ 'Nguồn dịch'. Xin lưu ý rằng phụ đề lấy từ các nguồn chính thức luôn được sử dụng miễn phí, trong khi phụ đề được EpSub dịch sẽ được tính vào mức sử dụng."
+  },
+  "switch_use_mt": {
+    "message": "Luôn sử dụng dịch máy:"
+  },
+  "switch_use_mt_tooltip": {
+    "message": "Việc bật nút chuyển này sẽ buộc EpSub dịch phụ đề bằng máy từ 'Nguồn dịch'. Điều này có thể cải thiện chất lượng bản dịch, đặc biệt đối với các video trên YouTube. Xin lưu ý rằng phụ đề lấy từ các nguồn chính thức luôn được sử dụng miễn phí, trong khi phụ đề được EpSub dịch sẽ được tính vào mức sử dụng."
+  },
+  "share_to_earn_commission": {
+    "message": "Kiếm tiền bằng cách chia sẻ EpSub"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "language": {
+    "message": "Chinese, Traditional"
+  },
+  "ext_name": {
+    "message": "SubTrans"
+  },
+  "ext_subname": {
+    "message": "通用字幕翻譯套件"
+  },
+  "ext_fulltitle": {
+    "message": "SubTrans - 通用字幕翻譯套件"
+  },
+  "ext_description": {
+    "message": "多個站點的通用字幕翻譯器。顯示雙語字幕。支持的站點正在積極增加。"
+  },
+  "switch": {
+    "message": "開關:"
+  },
+  "translation_source": {
+    "message": "翻譯源:"
+  },
+  "translation_source_tooltip": {
+    "message": "此列表是從您正在訪問的視頻頁面上的官方字幕加載的。 這是第一個和第二個字幕的翻譯來源。 確保您所在的影片頁面至少有一個官方字幕。 您也可以上傳自己的字幕或搜尋字幕作為翻譯來源。"
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "確保您所在的頁面已完全加載，並且影片至少有一個官方字幕。 您可以稍等一下，然後重新打開此彈出窗口，或嘗試重新載入影片頁面。 您也可以上傳自己的字幕或搜尋字幕作為翻譯來源。 請注意，這僅當該網站位於我們支援的網站清單中時才有效。 如果您在設定時遇到任何問題，請與我聯絡。"
+  },
+  "upload_button_tooltip": {
+    "message": "上傳外部字幕作為翻譯源。 這僅当您在視頻頁面上時有效。"
+  },
+  "first_subtitle": {
+    "message": "字幕一:"
+  },
+  "second_subtitle": {
+    "message": "字幕二:"
+  },
+  "first_subtitle_raw": {
+    "message": "字幕一"
+  },
+  "second_subtitle_raw": {
+    "message": "字幕二"
+  },
+  "use_preset_style": {
+    "message": "使用預設樣式："
+  },
+  "thanks": {
+    "message": "感謝您的使用～"
+  },
+  "feedback": {
+    "message": "聯絡我"
+  },
+  "subtitle_advance_tooltip": {
+    "message": "將字幕提前 0.5 秒"
+  },
+  "subtitle_delay_tooltip": {
+    "message": "將字幕延遲 0.5 秒"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "SubTrans - 超過配額，“升級到 PRO”或“分享&邀請”"
+  },
+  "subt_fake_need_login": {
+    "message": "SubTrans - 請登錄以繼續使用翻譯"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "SubTrans - 請 “升級到 PRO” 以下載字幕"
+  },
+  "download_button_tooltip": {
+    "message": "點擊下載此字幕。 這是一項 PRO 功能。"
+  },
+  "support_site_list": {
+    "message": "支持的站點列表"
+  },
+  "subtitle_copy_tooltip": {
+    "message": "複製"
+  },
+  "search_button_tooltip": {
+    "message": "在 OpenSubtitles 上搜索字幕作為翻譯源。 此按鈕僅在您位於視頻頁面時才有效。"
+  },
+  "apply_external_subt_success": {
+    "message": "外掛字幕應用成功！ 請在“翻譯源”選項中選擇它。"
+  },
+  "translation_dst_tooltip": {
+    "message": "此清單結合了 SubTrans 機器翻譯支援的語言和您造訪的影片頁面中的官方字幕語言。 當您選擇一種語言時，SubTrans 首先會嘗試從官方字幕中取得字幕。 如果失敗，SubTrans 將從您選擇的「翻譯來源」進行翻譯。 您也可以開啟「始終使用機器翻譯」以強制 SubTrans 始終從「翻譯來源」進行翻譯。 請注意，從官方來源獲得的字幕始終可以免費使用，而由 SubTrans 翻譯的字幕則會計入使用量。"
+  },
+  "switch_use_mt": {
+    "message": "始終使用機器翻譯:"
+  },
+  "switch_use_mt_tooltip": {
+    "message": "開啟此開關將強制 SubTrans 從「翻譯來源」機器翻譯字幕。 這可能會提高翻譯質量，尤其是 YouTube 影片。 請注意，從官方來源獲得的字幕始終可以免費使用，而由 SubTrans 翻譯的字幕則會計入使用量。"
+  },
+  "share_to_earn_commission": {
+    "message": "透過分享 SubTrans 賺錢"
+  }
+}
